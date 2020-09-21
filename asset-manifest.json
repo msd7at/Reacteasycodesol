@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Reacteasycodesol/static/css/main.ffd02d8a.chunk.css",
+    "main.js": "/Reacteasycodesol/static/js/main.c233d9bf.chunk.js",
+    "main.js.map": "/Reacteasycodesol/static/js/main.c233d9bf.chunk.js.map",
+    "runtime-main.js": "/Reacteasycodesol/static/js/runtime-main.33f53cee.js",
+    "runtime-main.js.map": "/Reacteasycodesol/static/js/runtime-main.33f53cee.js.map",
+    "static/css/2.ea6b7726.chunk.css": "/Reacteasycodesol/static/css/2.ea6b7726.chunk.css",
+    "static/js/2.038ac52e.chunk.js": "/Reacteasycodesol/static/js/2.038ac52e.chunk.js",
+    "static/js/2.038ac52e.chunk.js.map": "/Reacteasycodesol/static/js/2.038ac52e.chunk.js.map",
+    "index.html": "/Reacteasycodesol/index.html",
+    "precache-manifest.9d12862d0a1aacbf6613a48b3665bd0a.js": "/Reacteasycodesol/precache-manifest.9d12862d0a1aacbf6613a48b3665bd0a.js",
+    "service-worker.js": "/Reacteasycodesol/service-worker.js",
+    "static/css/2.ea6b7726.chunk.css.map": "/Reacteasycodesol/static/css/2.ea6b7726.chunk.css.map",
+    "static/css/main.ffd02d8a.chunk.css.map": "/Reacteasycodesol/static/css/main.ffd02d8a.chunk.css.map",
+    "static/js/2.038ac52e.chunk.js.LICENSE.txt": "/Reacteasycodesol/static/js/2.038ac52e.chunk.js.LICENSE.txt",
+    "static/media/and.jpg": "/Reacteasycodesol/static/media/and.49318c1e.jpg",
+    "static/media/apd.jpg": "/Reacteasycodesol/static/media/apd.3510798b.jpg",
+    "static/media/digi.jpg": "/Reacteasycodesol/static/media/digi.1cca0901.jpg",
+    "static/media/dm.jpg": "/Reacteasycodesol/static/media/dm.71dc9a46.jpg",
+    "static/media/img2.jpg": "/Reacteasycodesol/static/media/img2.bcc3a78a.jpg",
+    "static/media/sw.jpg": "/Reacteasycodesol/static/media/sw.a3c92013.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33f53cee.js",
+    "static/css/2.ea6b7726.chunk.css",
+    "static/js/2.038ac52e.chunk.js",
+    "static/css/main.ffd02d8a.chunk.css",
+    "static/js/main.c233d9bf.chunk.js"
+  ]
+}
